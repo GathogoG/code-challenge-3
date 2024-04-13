@@ -30,5 +30,8 @@ Sold Out Notification: Know when a movie sells out by seeing "Sold Out" next to 
 Bonus Features
 Feeling adventurous? Take on these bonus challenges:
 
+VIEW WEBSITE 
+http://127.0.0.1:5500/index.html
+
 Switch Movies on the Fly: Click on a movie in the menu to replace the currently displayed movie's details with the new movie's details.
 That's it! Flatdango is your ultimate movie companion. Sit back, relax, and enjoy the show! 🎬
